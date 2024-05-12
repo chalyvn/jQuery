@@ -1,1 +1,4 @@
-body{}
+.big-title {
+    font-size: 10rem;
+    color: green;
+}
